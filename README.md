@@ -1,4 +1,4 @@
-This is a simple Todo application project done by using HTML,CSS,CSS-GRID and JAVASCRIPT.
+This is a simple Todo application project done by using HTML,CSS,Bootstrap-GRID and JAVASCRIPT.
 Featutes of this Todo-application are :
 --> Taking User Input and creating Todos Dynamically.
 --> Checking a Todo.
